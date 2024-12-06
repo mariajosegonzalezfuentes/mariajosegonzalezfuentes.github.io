@@ -67,7 +67,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_2024.pdf
         - name: Email
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
         - name: Location
