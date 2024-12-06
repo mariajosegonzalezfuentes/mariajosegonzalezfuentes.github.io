@@ -2,9 +2,7 @@
 title: About Me
 ---
 
-# María José González-Fuentes 
-
-## About Me
+# About Me
 
 I am a PhD candidate in Economics at [ENS Lyon](https://www.ens-lyon.fr/en/) and the [CERGIC](https://www.cergic-lyon.fr/) Center for Economic Research on Governance, Inequality and Conflict. 
 
