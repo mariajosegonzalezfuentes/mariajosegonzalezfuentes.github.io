@@ -53,7 +53,7 @@ params:
           subtitle: "Economics PhD Candidate at ENS Lyon and CERGIC"
           imageUrl: "PictureWebsite.jpg"
           imageTitle: María José González-Fuentes
-          imageWidth: 160
+          imageWidth: 100
           imageHeight: 160
           buttons:
             - name: About Me
@@ -66,7 +66,7 @@ params:
               url: books/
 
     socialIcons:
-        - name: CV
+        - name: CV_2024
           url: CV_2024.pdf
         - name: Email
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
