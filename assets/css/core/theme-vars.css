@@ -52,9 +52,15 @@
 
 /* hyper links here */
 
-a {
-    color: var(--primary);  /* Set initial link color */
-    text-decoration: none;   /* Remove underline */
-    transition: color 0.3s ease; /* Smooth transition for color change */
+/* External Links: Remove Underline */
+a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
+    text-decoration: none;  /* Remove underline */
+    color: var(--primary);  /* Primary color for external links */
 }
+
+/* Hover Effect for External Links */
+a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+    color: var(--darkcolor);  /* Darker color on hover */
+}
+
 
