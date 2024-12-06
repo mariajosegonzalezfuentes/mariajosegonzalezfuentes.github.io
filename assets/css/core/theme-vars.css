@@ -60,6 +60,7 @@ a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
 
 /* Hover Effect for External Links */
 a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+    text-decoration: none;
     color: var(--darkcolor);  /* Darker color on hover */
 }
 
