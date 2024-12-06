@@ -13,18 +13,15 @@ menu:
         - name: About Me
           url: aboutme/
           weight: 2
-        - name: Working Papers
-          url: workingpapers/
+        - name: Research
+          url: research/
           weight: 3
-        - name: Work in Progress
-          url: workinprogress/
-          weight: 4
         - name: Resume
           url: resume/
-          weight: 5
+          weight: 4
         - name: Teaching
           url: teaching/
-          weight: 6
+          weight: 5
 
 params:
     description: "Economics PhD Candidate at ENS Lyon and CERGIC"
@@ -62,10 +59,8 @@ params:
           buttons:
             - name: About Me
               url: aboutme/
-            - name: Working Papers
-              url: workingpapers/
-            - name: Work in Progress
-              url: workinprogress/
+            - name: Research
+              url: research/
             - name: Resume
               url: resume/
             - name: Teaching
