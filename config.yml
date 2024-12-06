@@ -10,21 +10,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: About Me
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Working Papers
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Work in Progress
           url: courses/
           weight: 3
-        - name: Data
+        - name: Teaching
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "Economics PhD Candidate at ENS Lyon and CERGIC"
