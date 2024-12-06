@@ -4,7 +4,9 @@ title: About Me
 
 ## María José González-Fuentes 
 
-I am a PhD candidate in Economics at [ENS Lyon](https://www.ens-lyon.fr/en/) and the [Center for Economic Research on Governance, Inequality and Conflict (CERGIC)](https://www.cergic-lyon.fr/). I am supervised by Professor [Sophie Hatte](https://sites.google.com/site/sophiehatte/).
+I am a PhD candidate in Economics at [ENS Lyon](https://www.ens-lyon.fr/en/) and the Center for Economic Research on Governance, Inequality and Conflict [(CERGIC)](https://www.cergic-lyon.fr/). 
+
+I am supervised by Professor [Sophie Hatte](https://sites.google.com/site/sophiehatte/).
 
 My research interests are in gender economics, with a focus on the intersection between gender and political economy. I am also interested in experimental economics.
 
