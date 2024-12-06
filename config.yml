@@ -11,7 +11,7 @@ taxonomies:
 menu:
     main:
         - name: About Me
-          url: aboutme/
+          url: /
           weight: 2 
         - name: Working Papers
           url: workingpapers/
@@ -59,8 +59,6 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: About Me
-              url: aboutme/
             - name: Working Papers
               url: workingpapers/
             - name: Work in Progress
