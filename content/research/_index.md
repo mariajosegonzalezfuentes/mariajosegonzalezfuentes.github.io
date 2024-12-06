@@ -7,8 +7,7 @@ title: "Research"
 ## Work in Progress
 
 **Discrimination, Rejection, and Application Behavior: Effects of Blind Hiring Processes**, joint with Anne Boring, Katie B. Coffman and Dylan Glover  
- <span style="color:#ff5733;">this part is orange</span>.
-_(draft coming soon!)_  
+_<span style="color:grey;">(draft coming soon!)</span>_  
 
 Blind hiring processes are one of the main policies that organizations use to reduce biases at the hiring stage. We examine demand-side, supply-side, and net effects of blinding information about gender and age in applications in the context of an online survey experiment. We assign participants to the role of recruiter or job candidate. We examine recruiters' willingness to hire candidates under a blind or a non-blind hiring process. Next, we examine candidates' willingness to apply under a blind and a non-blind hiring process. Then, we ask candidates to what factors would they attribute recruiters' decisions to either hire or not hire them. We relate these beliefs to recruiters' actual discrimination on the market. Finally, we examine whether rejection and the reasons that job seekers attribute to rejection impact their willingness to apply to a new job opportunity.
 
