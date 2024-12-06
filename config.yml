@@ -53,7 +53,8 @@ params:
     profileMode:
           enabled: true
           title: María José González-Fuentes
-          subtitle: "Economics PhD candidate at the [ENS Lyon](https://www.ens-lyon.fr/en/) and the [Center for Economic Research on Governance, Inequality and Conflict (CERGIC)](https://www.cergic-lyon.fr/)."          imageUrl: "PictureWebsite.jpg"
+          subtitle: "Economics PhD candidate at the [ENS de Lyon](https://www.ens-lyon.fr/en/) and the [Center for Economic Research on Governance, Inequality and Conflict (CERGIC)](https://www.cergic-lyon.fr/)."
+          imageUrl: "PictureWebsite.jpg"
           imageTitle: María José González-Fuentes
           imageWidth: 160
           imageHeight: 160
@@ -68,7 +69,7 @@ params:
               url: resume/
             - name: Teaching
               url: teaching/
-              
+
     socialIcons:
         - name: cv
           url: CV_2024.pdf
