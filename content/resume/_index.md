@@ -1,4 +1,0 @@
----
-title: "Resume"
-description: "Resume"
----
