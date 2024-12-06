@@ -49,11 +49,6 @@ strong, b {
     color: var(--bold-color);
 }
 
-button {
-    background-color: var(--bold-color); /* Normal background color */
-    color: var(--theme); /* Text color */
-}
-
 .list {
     background: var(--code-bg);
 }
