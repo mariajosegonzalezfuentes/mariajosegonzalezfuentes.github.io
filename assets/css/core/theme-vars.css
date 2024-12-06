@@ -14,7 +14,9 @@
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
+    --code-bg: #f3f7f7;
+        /* --code-bg: rgb(245, 245, 245); */
+    --bold-color: #e89795;
     --border: rgb(238, 238, 238);
     --darkcolor: #d9534f;
     --lightcolor: #e27c79;
@@ -28,6 +30,7 @@
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
+    --font-family: 'Roboto';
 }
 
 .dark {
@@ -40,6 +43,10 @@
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
+}
+
+strong, b {
+    color: var(--bold-color);
 }
 
 .list {
