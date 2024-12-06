@@ -11,16 +11,16 @@ taxonomies:
 menu:
     main:
         - name: About Me
-          url: books/
+          url: aboutme/
           weight: 5 
         - name: Working Papers
-          url: papers/
+          url: workingpapers/
           weight: 2
         - name: Work in Progress
-          url: courses/
+          url: workinprogress/
           weight: 3
         - name: Teaching
-          url: data/
+          url: teaching/
           weight: 4 
 
 params:
@@ -57,13 +57,13 @@ params:
           imageHeight: 160
           buttons:
             - name: About Me
-              url: papers/
+              url: aboutme/
             - name: Working Papers
-              url: courses/
+              url: workingpapers/
             - name: Work in Progress
-              url: data/
+              url: workinprogress/
             - name: Teaching
-              url: books/
+              url: teaching/
 
     socialIcons:
         - name: CV_2024
