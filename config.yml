@@ -53,7 +53,7 @@ params:
           subtitle: "Economics PhD Candidate at ENS Lyon and CERGIC"
           imageUrl: "PictureWebsite.jpg"
           imageTitle: María José González-Fuentes
-          imageWidth: 100
+          imageWidth: 160
           imageHeight: 160
           buttons:
             - name: About Me
@@ -74,8 +74,6 @@ params:
           url: location/
         - name: Twitter
           url: https://twitter.com/mariajose_gf
-        - name: GitHub
-          url: https://github.com/mariajosegonzalezfuentes
 
     assets:
         disableScrollBarStyle: true
