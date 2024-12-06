@@ -19,10 +19,7 @@ menu:
         - name: Resume
           url: resume/
           weight: 4
-        - name: Teaching
-          url: teaching/
-          weight: 5
-
+    
 params:
     description: "Economics PhD Candidate at ENS Lyon and CERGIC"
     author: María José González-Fuentes
@@ -62,8 +59,6 @@ params:
               url: research/
             - name: Resume
               url: resume/
-            - name: Teaching
-              url: teaching/
 
     socialIcons:
         - name: cv
