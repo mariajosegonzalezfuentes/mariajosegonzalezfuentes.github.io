@@ -58,11 +58,3 @@ a {
     transition: color 0.3s ease; /* Smooth transition for color change */
 }
 
-a:hover {
-    color: var(--darkcolor);  /* Change color when hovered */
-}
-
-a:active {
-    color: var(--lightcolor);  /* Change color when clicked */
-}
-
