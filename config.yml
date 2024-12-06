@@ -75,8 +75,6 @@ params:
           url: CV_2024.pdf
         - name: Email
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
-        - name: Location
-          url: office/
         - name: Twitter
           url: https://twitter.com/mariajose_gf
 
