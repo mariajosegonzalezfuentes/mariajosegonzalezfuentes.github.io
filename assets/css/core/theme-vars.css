@@ -14,7 +14,7 @@
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: #fdf7f6;
+    --code-bg: #fefefe;
         /* --code-bg: rgb(245, 245, 245); */
     --bold-color: #af4e4a;
     --border: rgb(238, 238, 238);
@@ -47,6 +47,11 @@
 
 strong, b {
     color: var(--bold-color);
+}
+
+button {
+    background-color: var(--bold-color); /* Normal background color */
+    color: var(--theme); /* Text color */
 }
 
 .list {
