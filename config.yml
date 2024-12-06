@@ -19,6 +19,8 @@ menu:
         - name: Work in Progress
           url: workinprogress/
           weight: 4
+        - name: Resume
+          url: resume/
         - name: Teaching
           url: teaching/
           weight: 5 
