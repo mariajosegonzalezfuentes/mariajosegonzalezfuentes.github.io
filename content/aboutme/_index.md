@@ -6,7 +6,7 @@ title: About Me
 
 ## About Me
 
-I am a PhD candidate in Economics at [ENS Lyon](https://www.ens-lyon.fr/en/) and the Center for Economic Research on Governance, Inequality and Conflict [(CERGIC)](https://www.cergic-lyon.fr/). 
+I am a PhD candidate in Economics at [ENS Lyon](https://www.ens-lyon.fr/en/) and the [CERGIC](https://www.cergic-lyon.fr/) Center for Economic Research on Governance, Inequality and Conflict. 
 
 I am supervised by Professor [Sophie Hatte](https://sites.google.com/site/sophiehatte/).
 
