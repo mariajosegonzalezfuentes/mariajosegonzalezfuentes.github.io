@@ -50,7 +50,8 @@ params:
     profileMode:
           enabled: true
           title: María José González-Fuentes
-          subtitle: "Economics PhD candidate at [ENS Lyon](https://www.ens-lyon.fr/en/) and [CERGIC](https://www.cergic-lyon.fr/). My research lies at the intersection of gender economics and political economy."
+          subtitle: "Economics PhD candidate at [ENS Lyon](https://www.ens-lyon.fr/en/) and [CERGIC](https://www.cergic-lyon.fr/). 
+          My research lies at the intersection of gender economics and political economy."
           imageUrl: "PictureWebsite.jpg"
           imageTitle: María José González-Fuentes
           imageWidth: 160
