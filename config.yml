@@ -76,7 +76,7 @@ params:
         - name: Email
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
         - name: Location
-          url: location/
+          url: office/
         - name: Twitter
           url: https://twitter.com/mariajose_gf
 
