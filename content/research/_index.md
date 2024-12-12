@@ -6,7 +6,7 @@ title: "Research"
 
 ## Work in Progress
 
-Discrimination, Rejection, and Application Behavior: Effects of Blind Hiring Processes, 
+<strong>Discrimination, Rejection, and Application Behavior: Effects of Blind Hiring Processes</strong>, 
 <small> with Anne Boring, Katie B. Coffman and Dylan Glover _<span style="color:#b7b6b7;">(draft coming soon!)</span>_  </small>
 
 <!---
@@ -15,7 +15,7 @@ Discrimination, Rejection, and Application Behavior: Effects of Blind Hiring Pro
   </small>
 -->
 
-Gender Quotas, Campaign Financing Rules and Party Bias against Women in Brazil,
+<strong>Gender Quotas, Campaign Financing Rules and Party Bias against Women in Brazil</strong>,
 <small> with Luc Paluskiewicz _<span style="color:#b7b6b7;">(draft coming soon!)</span>_  </small>
 
 <!---
