@@ -19,6 +19,8 @@ menu:
         - name: Resume
           url: resume/
           weight: 4
+        - name: Teaching
+          url: teaching/
     
 params:
     description: "Economics PhD Candidate at ENS Lyon and CERGIC"
