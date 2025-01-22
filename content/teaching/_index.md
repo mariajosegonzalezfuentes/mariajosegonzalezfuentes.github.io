@@ -6,6 +6,6 @@ title: "Teaching"
 
 ### Spring 2025
 
-<small> Teaching Assistant (TA) for <strong style="color:#211e29;">Prices & Markets</strong> MBA's class at INSEAD (Professor: Dylan Glover) </small>
+<small> Teaching Assistant for <strong style="color:#211e29;">Prices & Markets</strong> MBA class at INSEAD (Professor: Dylan Glover) </small>
 
-<small> Tutor for the <strong style="color:#211e29;"> Research Replication Project </strong> (Projet Tutoré CPES) of undergraduates at ENS de Lyon </small>
+<small> Tutor for the <strong style="color:#211e29;"> Research Replication Project </strong> (Projet Tutoré CPES) for undergraduates at ENS de Lyon </small>
