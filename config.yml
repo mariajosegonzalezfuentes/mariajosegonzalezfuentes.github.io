@@ -59,12 +59,16 @@ params:
               url: research/
             - name: Resume
               url: resume/
+            - name: Teaching
+              url: teaching/
 
     socialIcons:
         - name: cv
           url: CV_2024.pdf
         - name: Email
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
+        - name: Bluesky
+          url: https://bsky.app/profile/mariajose-gf.bsky.social
         - name: Twitter
           url: https://twitter.com/mariajose_gf
 
