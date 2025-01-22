@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
-description: "Teaching Activities"
 ---
+
+# Teaching 
 
