@@ -14,12 +14,15 @@
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: #fefefe;
+    --code-bg: #fafafa;
         /* --code-bg: rgb(245, 245, 245); */
-    --bold-color: #af4e4a;
+    --bold-color: #c5b9cd;
+        /* --bold-color: #af4e4a; */
     --border: rgb(238, 238, 238);
-    --darkcolor: #d9534f;
-    --lightcolor: #e27c79;
+    --darkcolor: #abb1cf;
+        /* --darkcolor: #d9534f; */
+    --lightcolor: #dec2cb;
+        /* -- lightcolor: #e27c79; */
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
