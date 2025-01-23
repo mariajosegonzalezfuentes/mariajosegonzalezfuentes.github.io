@@ -72,8 +72,6 @@ params:
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
         - name: Bluesky
           url: https://bsky.app/profile/mariajose-gf.bsky.social
-        - name: Twitter
-          url: https://twitter.com/mariajose_gf
 
     assets:
         disableScrollBarStyle: true
