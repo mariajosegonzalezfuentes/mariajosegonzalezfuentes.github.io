@@ -14,7 +14,7 @@ title: "Research"
   </small>
 -->
 
-<small> <strong style="color:#211e29;">Gender Quotas, Campaign Financing Rules and Party Bias against Women in Brazil</strong>, with Luc Paluskiewicz _<span style="color:#b7b6b7;">(draft coming soon!)</span>_  </small>
+<small> <strong style="color:#211e29;">Gender Quotas, Campaign Financing Rules and Party Bias against Women in Brazil</strong>, with [Luc Paluskiewicz](https://lucpaluskiewicz.github.io/) _<span style="color:#b7b6b7;">(draft coming soon!)</span>_  </small>
 
 <!---
   <small>
