@@ -6,7 +6,7 @@ title: "Research"
 
 ## Working Paper
 
-<normal> <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=67080" style="color:#d67988; text-decoration: underline;">
+<normal>  <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=67080" style="color:#d67988; text-decoration: none;">
     <strong>Discrimination, Rejection, and Labor Supply: Effects of Blind Hiring Processes</strong>
   </a>, with [Anne Boring](http://www.anneboring.com/), [Katherine B. Coffman](https://sites.google.com/site/kbaldigacoffman/) and [Dylan Glover](https://sites.google.com/site/dylanglover/home) </normal>
 
