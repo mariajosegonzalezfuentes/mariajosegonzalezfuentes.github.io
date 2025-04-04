@@ -77,12 +77,16 @@ a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):not(.paper-lin
 
 /* Paper link special style */
 .paper-link {
-    color: var(--darkcolor) !important; /* Pink from the start */
-    text-decoration: none !important;   /* No underline */
+    all: unset; /* THIS resets everything!! */
+    color: var(--darkcolor);
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 /* Paper link hover (optional, if you want no change) */
 .paper-link:hover {
-    color: var(--hovercolor) !important;
-    text-decoration: none !important;
+    color: var(--hovercolor);
+    text-decoration: none;
 }
