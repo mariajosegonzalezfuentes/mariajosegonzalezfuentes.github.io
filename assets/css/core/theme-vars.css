@@ -62,29 +62,26 @@ strong, b {
 
 /* hyper links here */
 
-/* External Links: Remove Underline */
-a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
-    text-decoration: none !important;  /* Remove underline */
-    color: var(--primary);  /* Primary color for external links */
+/* External Links (but NOT paper links) */
+a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):not(.paper-link) {
+    text-decoration: none;  /* No underline */
+    color: var(--primary);  /* Dark gray color */
 }
 
-/* Hover Effect for External Links */
-a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+/* External Links on Hover */
+a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):not(.paper-link):hover {
     text-decoration: none;
-    color: var(--darkcolor);  /* Darker color on hover */
+    color: var(--darkcolor);  /* Pink hover */
 }
 
-/* Special style for the paper title link */
+/* Paper link special style */
 .paper-link {
-    color: var(--darkcolor); /* Same as external link hover color */
-    text-decoration: none;
+    color: var(--darkcolor); /* Pink from the start */
+    text-decoration: none;   /* No underline */
 }
 
-/* Optional: on hover, make it stay the same color, no underline */
+/* Paper link hover (optional, if you want no change) */
 .paper-link:hover {
-    color: var(--darkcolor); /* no color change */
+    color: var(--darkcolor);
     text-decoration: none;
 }
-
-
-
