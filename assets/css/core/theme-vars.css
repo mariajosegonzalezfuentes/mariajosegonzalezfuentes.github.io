@@ -74,4 +74,17 @@ a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
     color: var(--darkcolor);  /* Darker color on hover */
 }
 
+/* Special style for the paper title link */
+.paper-link {
+    color: var(--darkcolor); /* Same as external link hover color */
+    text-decoration: none;
+}
+
+/* Optional: on hover, make it stay the same color, no underline */
+.paper-link:hover {
+    color: var(--darkcolor); /* no color change */
+    text-decoration: none;
+}
+
+
 
