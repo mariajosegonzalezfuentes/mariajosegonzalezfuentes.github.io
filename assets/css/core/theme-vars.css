@@ -65,7 +65,7 @@ strong, b {
 
 /* External Links (but NOT paper links) */
 a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):not(.paper-link) {
-    text-decoration: none;  /* No underline */
+    text-decoration: none !important;  /* No underline */
     color: var(--primary);  /* Dark gray color */
 }
 
@@ -77,12 +77,12 @@ a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):not(.paper-lin
 
 /* Paper link special style */
 .paper-link {
-    color: var(--darkcolor); /* Pink from the start */
+    color: var(--darkcolor) !important; /* Pink from the start */
     text-decoration: none !important;   /* No underline */
 }
 
 /* Paper link hover (optional, if you want no change) */
 .paper-link:hover {
-    color: var(--hovercolor);
+    color: var(--hovercolor) !important;
     text-decoration: none !important;
 }
