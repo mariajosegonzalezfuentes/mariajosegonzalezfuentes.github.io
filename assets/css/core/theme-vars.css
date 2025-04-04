@@ -23,6 +23,7 @@
         /* --darkcolor: #d9534f; */
     --lightcolor: #d67988;
         /* -- lightcolor: #e27c79; */
+    --hovercolor: #e28b99;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -82,6 +83,6 @@ a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):not(.paper-lin
 
 /* Paper link hover (optional, if you want no change) */
 .paper-link:hover {
-    color: var(--darkcolor);
+    color: var(--hovercolor);
     text-decoration: none;
 }
