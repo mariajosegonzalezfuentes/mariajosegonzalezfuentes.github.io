@@ -64,7 +64,7 @@ strong, b {
 
 /* External Links: Remove Underline */
 a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
-    text-decoration: none;  /* Remove underline */
+    text-decoration: none !important;  /* Remove underline */
     color: var(--primary);  /* Primary color for external links */
 }
 
