@@ -64,6 +64,11 @@ strong, b {
 
 /* hyper links here */
 
+a:hover {
+  color: var(--darkcolor);
+}
+
+
 /* External Links (but NOT paper links) */
 a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
      text-decoration: none !important;  /* No underline */
