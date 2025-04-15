@@ -70,9 +70,10 @@ a {
 }
 
 /* a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
-/*     text-decoration: none !important;  /* No underline */
-/*     color: var(--primary);  /* Dark gray color */
-/* }
+     text-decoration: none !important;  /* No underline */
+     color: var(--primary);  /* Dark gray color */
+ }
+*/
 
 /* External Links on Hover */
 a:hover {
@@ -81,9 +82,10 @@ a:hover {
 }
 
 /* a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
-/*     text-decoration: none !important;
-/*     color: var(--darkcolor);  /* Pink hover */
-/* }
+     text-decoration: none !important;
+    color: var(--darkcolor);  /* Pink hover */
+ }
+*/
 
 
 
