@@ -64,11 +64,6 @@ strong, b {
 
 /* hyper links here */
 
-a:hover {
-  color: var(--darkcolor);
-}
-
-
 /* External Links (but NOT paper links) */
 a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
      text-decoration: none !important;  /* No underline */
@@ -77,11 +72,11 @@ a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
 
 
 /* External Links on Hover */
-/*a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
      text-decoration: none !important;
     color: var(--darkcolor);  /* Pink hover */
  }
-*/
+
 
 
 
