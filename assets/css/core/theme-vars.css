@@ -65,14 +65,29 @@ strong, b {
 /* hyper links here */
 
 /* External Links (but NOT paper links) */
-a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
-    text-decoration: none !important;  /* No underline */
-    color: var(--primary);  /* Dark gray color */
+a {
+    text-decoration: none !important;
 }
 
+/* a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
+/*     text-decoration: none !important;  /* No underline */
+/*     color: var(--primary);  /* Dark gray color */
+/* }
+
 /* External Links on Hover */
-a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
-    text-decoration: none;
-    color: var(--darkcolor);  /* Pink hover */
+a:hover {
+    color: var(--darkcolor); /* Pink hover */
+    text-decoration: none !important;
 }
+
+/* a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+/*     text-decoration: none !important;
+/*     color: var(--darkcolor);  /* Pink hover */
+/* }
+
+
+
+
+
+
 
