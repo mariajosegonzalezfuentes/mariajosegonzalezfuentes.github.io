@@ -78,7 +78,6 @@ a {
 /* External Links on Hover */
 a:hover {
     color: var(--darkcolor); /* Pink hover */
-    text-decoration: none !important;
 }
 
 /* a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
