@@ -6,7 +6,7 @@ title: "Research"
 
 ## Working Papers
 
-<strong style="color:#211e29;">Discrimination, Rejection, and Labor Supply: Effects of Blind Hiring Processes</strong>, with [Anne Boring](http://www.anneboring.com/), [Katherine B. Coffman](https://sites.google.com/site/kbaldigacoffman/) and [Dylan Glover](https://sites.google.com/site/dylanglover/home) <a href="https://mariajosegonzalezfuentes.github.io/DrJ_15april2025.pdf" style="color:#b7b6b7;">[Link (April 2025)]</a>
+<strong style="color:#211e29;">Discrimination, Rejection, and Labor Supply: Effects of Blind Hiring Processes</strong>, with [Anne Boring](http://www.anneboring.com/), [Katherine B. Coffman](https://sites.google.com/site/kbaldigacoffman/) and [Dylan Glover](https://sites.google.com/site/dylanglover/home) <a href="https://mariajosegonzalezfuentes.github.io/DrJ_15april2025.pdf" style="color:#c43e54;">[Link (April 2025)]</a>
 
 <!--- [[Link (April 2025)]](https://mariajosegonzalezfuentes.github.io/DrJ_15april2025.pdf) --->
 
