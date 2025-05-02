@@ -6,7 +6,7 @@ title: "Research"
 
 ## Working Papers
 
-<strong style="color:#211e29;">Discrimination, Rejection, and Willingness to Apply: Effects of Blind Hiring Processes</strong>, with [Anne Boring](http://www.anneboring.com/), [Katherine B. Coffman](https://sites.google.com/site/kbaldigacoffman/) and [Dylan Glover](https://sites.google.com/site/dylanglover/home) 
+<strong style="color:#211e29;">Discrimination, Rejection, and Willingness to Apply: Effects of Blind Hiring Processes </strong>, with [Anne Boring](http://www.anneboring.com/), [Katherine B. Coffman](https://sites.google.com/site/kbaldigacoffman/) and [Dylan Glover](https://sites.google.com/site/dylanglover/home) 
 
 <p><a href="https://mariajosegonzalezfuentes.github.io/DrJ_15april2025.pdf" style="color:#c43e54; font-size: small;">[Link (April 2025)]</a></p>
 
