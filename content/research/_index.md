@@ -18,10 +18,8 @@ title: "Research"
 
 ## Work in Progress
 
-<strong style="color:#211e29;">Gender Quotas, Campaign Financing Rules and Party Bias against Women in Brazil</strong>, with [Luc Paluskiewicz](https://lucpaluskiewicz.github.io/) _<span style="color:#b7b6b7;">(draft coming soon!)</span>_ 
+<strong style="color:#211e29;">Electoral Games: How Parties Undermine Gender Policy Packages</strong>, with [Luc Paluskiewicz](https://lucpaluskiewicz.github.io/) _<span style="color:#b7b6b7;">(draft coming soon!)</span>_ 
 
-<!---
-  <small>
-    Abstract
-  </small>
--->
+<p style="font-size: small;">
+<ins style="color:#211e29;"> Abstract:</ins> Can party behaviour explain why gender equality policies fail to increase women’s political representation? Using data from seven municipal elections, we show that Brazilian political parties undermine gender quotas and funding requirements by strategically placing female candidates in races where they expect weak performance while reserving “sure” races for men. Despite national-level compliance requirements, weak enforcement at the municipal level enables this strategic distribution across localities based on electoral competitiveness. In municipalities that are historically electoral strongholds, the share of female candidates increased more after quota implementation than in competitive municipalities, driven by a larger increase among non-dominant parties. Conversely, dominant parties reduced all-male candidate lists 23.5% less than their counterparts in competitive races. We document a sharp increase in token female candidacies after the adoption of gender quotas, reduced by the introduction of campaign funding requirements. Our results point to the importance of factoring electoral competition and party responses when designing gender equality policies.
+</p>
