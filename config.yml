@@ -51,7 +51,7 @@ params:
           enabled: true
           title: María José González-Fuentes
           subtitle: "Hi! I am a **PhD candidate in Economics** at [ENS Lyon](https://www.ens-lyon.fr/en/) and [CERGIC](https://www.cergic-lyon.fr/). My research interests are in **gender economics** and **political economy**."
-          imageUrl: "photo.jpeg"
+          imageUrl: "photo.jpg"
           imageTitle: María José González-Fuentes
           imageWidth: 160
           imageHeight: 160
