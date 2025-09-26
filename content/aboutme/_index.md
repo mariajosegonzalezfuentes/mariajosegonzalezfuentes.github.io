@@ -4,7 +4,7 @@ title: About Me
 
 # About Me
 
-I am a PhD candidate in Economics at [ENS Lyon](https://www.ens-lyon.fr/en/) and the Center for Economic Research on Governance, Inequality and Conflict [CERGIC](https://www.cergic-lyon.fr/).
+I am a PhD candidate in Economics at [ENS de Lyon](https://www.ens-lyon.fr/en/) and the Center for Economic Research on Governance, Inequality and Conflict [CERGIC](https://www.cergic-lyon.fr/).
 
 My research interests are in Gender Economics, with a focus on the intersection of gender, politics and media. I am also interested in experimental and behavior economics. I am supervised by [Sophie Hatte](https://sites.google.com/site/sophiehatte/). 
 
