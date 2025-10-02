@@ -7,7 +7,7 @@ a.button {
     border: 1px solid var(--tertiary);  /* light border */
     color: var(--primary) !important;   /* normal text color */
     font-weight: 500;
-    font-size: 14px;                    /* slightly smaller font */
+    font-size: 16px;                    /* slightly smaller font */
     text-decoration: none !important;   /* remove underline */
     transition: color 0.2s, border 0.2s;
 }
@@ -19,20 +19,24 @@ a.button:hover {
     text-decoration: none !important;   /* stay clean */
 }
 
-/* Make header navigation menu items smaller and cleaner */
+/* Clean menu styling */
 #menu a {
-    font-size: 14px !important;         /* smaller font to match buttons */
-    font-weight: 500;                   /* slightly bolder */
-    padding: 4px 8px;                   /* add subtle padding */
-    transition: color 0.2s;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    padding: 4px 8px;
+    text-decoration: none !important;
+    border: 1px solid transparent;       /* invisible border by default */
+    border-radius: 4px;                  /* slightly rounded corners */
+    transition: color 0.2s, border 0.2s;
 }
 
 #menu a:hover {
     color: var(--darkcolor) !important;
 }
 
-/* Active page indicator - keep it clean with subtle rounded corners */
+/* Active page - light border box with rounded corners */
 #menu .active {
-    border-bottom: 2px solid var(--darkcolor);
-    border-radius: var(--radius);       /* subtle rounded corners */
+    border: 1px solid var(--tertiary) !important;  /* light border */
+    border-radius: 4px !important;                  /* slightly rounded */
+    background: none !important;
 }
