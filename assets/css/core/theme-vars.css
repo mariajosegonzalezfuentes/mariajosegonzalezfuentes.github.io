@@ -102,3 +102,17 @@ article a:hover {
     color: var(--darkcolor) !important;
     box-shadow: none !important;
 }
+
+/* Base style for buttons */
+.button {
+    text-decoration: none !important; /* remove underline */
+    color: var(--primary);
+}
+
+/* Hover style */
+.button:hover,
+.button:focus {
+    text-decoration: none !important; /* keep no underline on hover */
+    color: var(--darkcolor); /* optional: change color on hover */
+}
+
