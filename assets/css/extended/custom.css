@@ -1,32 +1,32 @@
 /* Keep PaperMod buttons subtle (no underline, no background fill) */
 a.button {
     display: inline-block;
-    padding: 4px 10px;                  /* smaller padding */
-    border-radius: var(--radius);       /* subtle rounded corners */
-    background: none !important;        /* no background */
-    border: 1px solid var(--tertiary);  /* light border */
-    color: var(--primary) !important;   /* normal text color */
+    padding: 4px 10px;
+    border-radius: 0;
+    background: none !important;
+    border: 1px solid var(--tertiary);
+    color: var(--primary) !important;
     font-weight: 500;
-    font-size: 16px;                    /* slightly smaller font */
-    text-decoration: none !important;   /* remove underline */
+    font-size: 16px;
+    text-decoration: none !important;
     transition: color 0.2s, border 0.2s;
 }
-/* Hover: only change color + border */
+
 a.button:hover {
-    background: none !important;        /* no background even on hover */
-    color: var(--darkcolor) !important; /* your accent color */
-    border-color: var(--darkcolor);     /* border matches hover color */
-    text-decoration: none !important;   /* stay clean */
+    background: none !important;
+    color: var(--darkcolor) !important;
+    border-color: var(--darkcolor);
+    text-decoration: none !important;
 }
 
 /* Clean menu styling */
 #menu a {
     font-size: 16px !important;
     font-weight: 500 !important;
-    padding: 4px 8px;
+    padding: 6px 12px;
     text-decoration: none !important;
-    border: 1px solid transparent;       /* invisible border by default */
-    border-radius: 4px;                  /* slightly rounded corners */
+    border: 1px solid transparent;
+    border-radius: 0;
     transition: color 0.2s, border 0.2s;
 }
 
@@ -36,7 +36,14 @@ a.button:hover {
 
 /* Active page - light border box with rounded corners */
 #menu .active {
-    border: 1px solid var(--tertiary) !important;  /* light border */
-    border-radius: 4px !important;                  /* slightly rounded */
+    border: 1px solid var(--tertiary) !important;
+    border-radius: 4px !important;
     background: none !important;
+}
+
+/* Center navigation with page content */
+.nav {
+    max-width: calc(var(--main-width) + var(--gap) * 2) !important;
+    margin: 0 auto !important;
+    padding: 0 var(--gap);
 }
