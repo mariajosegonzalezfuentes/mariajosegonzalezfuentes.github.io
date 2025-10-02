@@ -50,9 +50,9 @@
     --border: rgb(51, 51, 51);
 }
 
-strong, b {
+/* strong, b { 
     color: var(--bold-color);
-}
+} */
 
 .list {
     background: var(--code-bg);
