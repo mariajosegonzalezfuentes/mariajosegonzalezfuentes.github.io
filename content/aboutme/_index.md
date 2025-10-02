@@ -1,12 +1,10 @@
 ---
 title: About Me
 ---
-
 # About Me
+I am a PhD candidate in Economics at <a href="https://www.ens-lyon.fr/en/">ENS de Lyon</a> and the Center for Economic Research on Governance, Inequality and Conflict <a href="https://www.cergic-lyon.fr/">CERGIC</a>, under the supervision of <a href="https://sites.google.com/site/sophiehatte/">Sophie Hatte</a>.
 
-I am a PhD candidate in Economics at [ENS de Lyon](https://www.ens-lyon.fr/en/) and the Center for Economic Research on Governance, Inequality and Conflict [CERGIC](https://www.cergic-lyon.fr/), under the supervision of [Sophie Hatte](https://sites.google.com/site/sophiehatte/).
-
-My research interests are in gender economics, with a focus on the intersection of gender and politics. I am also interested in experimental methods.  
+My research interests are in Gender Economics, with a focus on the intersection of **gender** and **politics**. I am also interested in experimental methods.  
 
 Prior to my PhD I was a pre-doc at INSEAD and a Research Assistant at the Women in Business Chair from Sciences Po (LIEPP). 
 
@@ -25,7 +23,3 @@ Harvard Business School
 Dylan Glover  
 INSEAD  
 ✉️ [dylan.glover@insead.edu](mailto:dylan.glover@insead.edu)
-
-
-
-
