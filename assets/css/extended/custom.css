@@ -1,16 +1,16 @@
 /* Keep PaperMod buttons subtle (no underline, no background fill) */
 a.button {
     display: inline-block;
-    padding: 6px 12px;                  /* small, compact buttons */
-    border-radius: var(--radius);       /* subtle rounded corners */
+    padding: 4px 10px;                  /* smaller padding */
+    border-radius: 0;                   /* sharp corners (no rounding) */
     background: none !important;        /* no background */
     border: 1px solid var(--tertiary);  /* light border */
     color: var(--primary) !important;   /* normal text color */
     font-weight: 500;
+    font-size: 14px;                    /* slightly smaller font */
     text-decoration: none !important;   /* remove underline */
     transition: color 0.2s, border 0.2s;
 }
-
 /* Hover: only change color + border */
 a.button:hover {
     background: none !important;        /* no background even on hover */
