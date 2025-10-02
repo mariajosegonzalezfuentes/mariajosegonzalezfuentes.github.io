@@ -64,18 +64,28 @@
 
 /* hyper links here */
 
-/* Universal external links - no underline */
-main a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]),
-main a[href^="https"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
+/* Remove underlines from all content links */
+.post-content a {
+    box-shadow: none !important;
     text-decoration: none !important;
     color: var(--primary) !important;
-    border-bottom: none !important;
 }
-
-/* Universal external links hover - single underline and pink */
-main a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover,
-main a[href^="https"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+/* Add underline and pink color ONLY on hover */
+.post-content a:hover {
     text-decoration: underline !important;
     color: var(--darkcolor) !important;
-    border-bottom: none !important;  /* Remove the border underline */
+    box-shadow: none !important;
+}
+/* Also apply to page content (for pages like Research) */
+.page-content a,
+article a {
+    box-shadow: none !important;
+    text-decoration: none !important;
+    color: var(--primary) !important;
+}
+.page-content a:hover,
+article a:hover {
+    text-decoration: underline !important;
+    color: var(--darkcolor) !important;
+    box-shadow: none !important;
 }
