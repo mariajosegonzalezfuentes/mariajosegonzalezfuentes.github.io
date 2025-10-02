@@ -4,7 +4,7 @@ title: "Resume"
 
 # Resume 
 
-You can download my CV [here](https://mariajosegonzalezfuentes.github.io/CV_2024.pdf). 
+You can download my CV [here](https://mariajosegonzalezfuentes.github.io/CV_2025.pdf). 
 
 <!-- PDF Embed Container --> 
 
