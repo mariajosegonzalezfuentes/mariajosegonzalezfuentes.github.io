@@ -10,14 +10,14 @@ taxonomies:
 
 menu:
     main:
-        - name: About Me
-          url: aboutme/
-          weight: 2
         - name: Research
           url: research/
-          weight: 3
+          weight: 2
         - name: Resume
           url: resume/
+          weight: 3
+        - name: References
+          url: references/
           weight: 4
         - name: Teaching
           url: teaching/
@@ -57,13 +57,13 @@ params:
           imageTitle: María José González-Fuentes
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: About Me
-              url: aboutme/         
+          buttons:         
             - name: Research
               url: research/
             - name: Resume
               url: resume
+            - name: References
+              url: references/
             - name: Teaching
               url: teaching/
 
