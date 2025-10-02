@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: María José González-Fuentes
-          subtitle: "Hi! I am a **PhD candidate in Economics** at [ENS Lyon](https://www.ens-lyon.fr/en/) and [CERGIC](https://www.cergic-lyon.fr/). My research interests are in **gender economics** and **political economy**."
+          subtitle: "Hi! I am a PhD candidate in Economics at **[ENS Lyon](https://www.ens-lyon.fr/en/)** and **[CERGIC](https://www.cergic-lyon.fr/)**. I am supervised by **[Sophie Hatte](https://sites.google.com/site/sophiehatte/)**. \n\nMy research interests are in **gender economics** and **political economy**."
           # subtitle: "I am a **PhD candidate in Economics** at [ENS Lyon](https://www.ens-lyon.fr/en/) and [CERGIC](https://www.cergic-lyon.fr/).\n\nMy research interests are in **gender economics**, with a focus on the intersection of gender, politics and media. I am also interested in experimental and behavioral economics. I am supervised by [Sophie Hatte](https://sites.google.com/site/sophiehatte/).\n\nBefore starting my PhD, I was a pre-doc at INSEAD and a research assistant at the Women in Business Chair at Sciences Po ([LIEPP](https://www.sciencespo.fr/liepp/en/)).\n\nI hold a Master's degree in Analysis and Policy in Economics from the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/)."
           imageUrl: "photo1.png"
           imageTitle: María José González-Fuentes
