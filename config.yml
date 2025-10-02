@@ -58,12 +58,12 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: About Me
+              url: aboutme/         
             - name: Research
               url: research/
             - name: Resume
               url: resume
-            - name: References
-              url: aboutme/
             - name: Teaching
               url: teaching/
 
