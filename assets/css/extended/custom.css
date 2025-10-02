@@ -2,7 +2,7 @@
 a.button {
     display: inline-block;
     padding: 4px 10px;                  /* smaller padding */
-    border-radius: 0;                   /* sharp corners (no rounding) */
+    border-radius: var(--radius);       /* subtle rounded corners */
     background: none !important;        /* no background */
     border: 1px solid var(--tertiary);  /* light border */
     color: var(--primary) !important;   /* normal text color */
@@ -17,4 +17,22 @@ a.button:hover {
     color: var(--darkcolor) !important; /* your accent color */
     border-color: var(--darkcolor);     /* border matches hover color */
     text-decoration: none !important;   /* stay clean */
+}
+
+/* Make header navigation menu items smaller and cleaner */
+#menu a {
+    font-size: 14px !important;         /* smaller font to match buttons */
+    font-weight: 500;                   /* slightly bolder */
+    padding: 4px 8px;                   /* add subtle padding */
+    transition: color 0.2s;
+}
+
+#menu a:hover {
+    color: var(--darkcolor) !important;
+}
+
+/* Active page indicator - keep it clean with subtle rounded corners */
+#menu .active {
+    border-bottom: 2px solid var(--darkcolor);
+    border-radius: var(--radius);       /* subtle rounded corners */
 }
