@@ -64,18 +64,18 @@ strong, b {
 
 /* hyper links here */
 
-/* External Links (but NOT paper links) - No underline by default */
-a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]),
-a[href^="https"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
-     text-decoration: none !important;  /* No underline */
-     color: var(--primary) !important;  /* Dark gray color */
+/* Universal external links - no underline */
+main a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]),
+main a[href^="https"]:not([href*="mariajosegonzalezfuentes.github.io"]) {
+    text-decoration: none !important;
+    color: var(--primary) !important;
+    border-bottom: none !important;
 }
 
-/* External Links on Hover - Underline and pink */
-a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover,
-a[href^="https"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
+/* Universal external links hover - single underline and pink */
+main a[href^="http"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover,
+main a[href^="https"]:not([href*="mariajosegonzalezfuentes.github.io"]):hover {
     text-decoration: underline !important;
-    color: var(--darkcolor) !important;  /* Pink hover */
+    color: var(--darkcolor) !important;
+    border-bottom: none !important;  /* Remove the border underline */
 }
-
-
