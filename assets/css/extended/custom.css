@@ -32,18 +32,16 @@ a.button:hover {
 
 #menu a:hover {
     color: var(--darkcolor) !important;
+    border-color: var(--darkcolor);
+    text-decoration: none !important;
 }
 
 /* Active page - light border box with rounded corners */
 #menu .active {
+    padding: 6px 12px;
     border: 1px solid var(--tertiary) !important;
-    border-radius: 4px !important;
+    border-radius: 0;
     background: none !important;
 }
 
-/* Center navigation with page content */
-.nav {
-    max-width: calc(var(--main-width) + var(--gap) * 2) !important;
-    margin: 0 auto !important;
-    padding: 0 var(--gap);
-}
+
