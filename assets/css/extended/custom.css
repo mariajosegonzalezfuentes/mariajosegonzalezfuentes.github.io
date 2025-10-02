@@ -32,3 +32,9 @@ a.button:hover {
     color: var(--darkcolor) !important;
     text-decoration: underline !important;
 }
+
+/* Active page - simple underline in regular color */
+#menu .active {
+    text-decoration: underline !important;
+    color: var(--primary) !important;
+}
