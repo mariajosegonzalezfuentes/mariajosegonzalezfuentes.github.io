@@ -23,24 +23,18 @@ a.button:hover {
 #menu a {
     font-size: 16px !important;
     font-weight: 500 !important;
-    padding: 6px 12px;
     text-decoration: none !important;
-    border: 1px solid transparent;
-    border-radius: 0;
-    transition: color 0.2s, border 0.2s;
+    border-bottom: none;
+    transition: color 0.2s, border-bottom 0.2s;
 }
 
 #menu a:hover {
     color: var(--darkcolor) !important;
-    border-color: var(--darkcolor);
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
 
-/* Active page - light border box with rounded corners */
-
+/* Active page - simple underline in regular color */
 #menu .active {
-    padding: 6px 12px;
-    border: 1px solid var(--tertiary) !important;
-    border-radius: 0;
-    background: none !important;
+    text-decoration: underline !important;
+    color: var(--primary) !important;
 }
