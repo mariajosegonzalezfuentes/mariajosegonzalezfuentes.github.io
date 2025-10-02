@@ -6,7 +6,7 @@ a.button {
     background: none !important;        /* no background */
     border: 1px solid var(--tertiary);  /* light border */
     color: var(--primary) !important;   /* normal text color */
-    font-weight: var(--semibold);
+    font-weight: 500;
     text-decoration: none !important;   /* remove underline */
     transition: color 0.2s, border 0.2s;
 }
