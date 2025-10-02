@@ -89,3 +89,16 @@ article a:hover {
     color: var(--darkcolor) !important;
     box-shadow: none !important;
 }
+
+/* Profile mode links (home page) */
+.profile a {
+    box-shadow: none !important;
+    text-decoration: none !important;
+    color: var(--primary) !important;
+}
+
+.profile a:hover {
+    text-decoration: underline !important;
+    color: var(--darkcolor) !important;
+    box-shadow: none !important;
+}
