@@ -18,9 +18,11 @@ title: "Research"
   </p>
 
   <div style="margin-top: 0.8rem;">
-    <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
-    <button onclick="toggleSection('presentations1', 'abstract1', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Presentations</button>
-  </div>
+  <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
+  <!-- Commented out presentations button
+  <button onclick="toggleSection('presentations1', 'abstract1', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Presentations</button>
+  -->
+</div>
 
   <div id="abstract1" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
     <p style="font-size: small; text-align: justify; margin: 0;">
@@ -102,17 +104,20 @@ function toggleSection(showId, hideId, button) {
     btn.style.borderColor = '#ddd';
   });
   
-  // Hide the other section
-  hideElement.style.display = 'none';
+  // Hide the other section (only if it exists)
+  if (hideElement) {
+    hideElement.style.display = 'none';
+  }
   
   // Toggle the current section
-  if (showElement.style.display === 'none' || showElement.style.display === '') {
+  if (showElement && (showElement.style.display === 'none' || showElement.style.display === '')) {
     showElement.style.display = 'block';
     button.style.background = '#c43e54';
     button.style.color = 'white';
     button.style.borderColor = '#c43e54';
-  } else {
+  } else if (showElement) {
     showElement.style.display = 'none';
   }
 }
 </script>
+
