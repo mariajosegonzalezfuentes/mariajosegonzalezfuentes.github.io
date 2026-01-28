@@ -7,13 +7,14 @@ title: "Research"
 ## Working Papers
 
 <div style="margin-bottom: 2rem;">
-  <div style="display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap;">
-    <strong style="color:#211e29; font-size: 1.05rem;">Discrimination, Rejection, and Willingness to Apply: Effects of Blind Hiring Processes</strong>
-    <a href="https://mariajosegonzalezfuentes.github.io/DrJ_january2026.pdf" style="color:#c43e54; font-size: small; text-decoration: none;">[Link (January 2026)]</a>
-  </div>
+  <strong style="color:#211e29; font-size: 1.05rem;">Discrimination, Rejection, and Willingness to Apply: Effects of Blind Hiring Processes</strong>
   
-  <p style="font-size: 0.9rem; color: #555; margin-top: 0.3rem;">
+  <p style="font-size: 0.9rem; color: #555; margin-top: 0.3rem; margin-bottom: 0.3rem;">
     with <a href="http://www.anneboring.com/" style="color: #555; text-decoration: none;">Anne Boring</a>, <a href="https://sites.google.com/site/kbaldigacoffman/" style="color: #555; text-decoration: none;">Katherine B. Coffman</a> and <a href="https://sites.google.com/site/dylanglover/home" style="color: #555; text-decoration: none;">Dylan Glover</a>
+  </p>
+
+  <p>
+    <a href="https://mariajosegonzalezfuentes.github.io/DrJ_january2026.pdf" style="color:#c43e54; font-size: small; text-decoration: none;">[Link (January 2026)]</a>
   </p>
 
   <div style="margin-top: 0.8rem;">
@@ -27,21 +28,21 @@ We investigate how candidates' willingness to apply responds to (potential) disc
     </p>
   </div>
 
+<!-- Commented out presentation button here
   <div id="presentations1" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
     <p style="font-size: small; margin: 0;">
       CERGIC Internal Seminar.
     </p>
   </div>
+  -->
 </div>
 
 ## Work in Progress
 
 <div style="margin-bottom: 2rem;">
-  <div style="display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap;">
-    <strong style="color:#211e29; font-size: 1.05rem;">The Downside of Gender Electoral Policies: Strategic Party Behaviour in Brazil</strong>
-  </div>
+  <strong style="color:#211e29; font-size: 1.05rem;">The Downside of Gender Electoral Policies: Strategic Party Behaviour in Brazil</strong>
   
-  <p style="font-size: 0.9rem; color: #555; margin-top: 0.3rem;">
+  <p style="font-size: 0.9rem; color: #555; margin-top: 0.3rem; margin-bottom: 0.3rem;">
     with <a href="https://lucpaluskiewicz.github.io/" style="color: #555; text-decoration: none;">Luc Paluskiewicz</a>
   </p>
 
@@ -51,7 +52,7 @@ We investigate how candidates' willingness to apply responds to (potential) disc
     <button onclick="toggleSection('abstract2', 'presentations2', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
     <button onclick="toggleSection('presentations2', 'abstract2', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Presentations</button>
   </div>
-
+  
   <div id="abstract2" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
     <p style="font-size: small; text-align: justify; margin: 0;">
 How do political parties react to gender electoral policies in Brazil? Using data from seven municipal elections, we show that Brazilian political parties react to gender quotas and funding requirements by strategically placing female candidates for municipal councillors in races where they expect weak performance while reserving "sure" races for men. Despite national-level compliance requirements, weak enforcement at the municipal level enables this strategic distribution across localities based on electoral competitiveness. In municipalities that are historically electoral strongholds, the share of female candidates increased more after quota implementation than in competitive municipalities, driven by a larger increase among non-dominant parties. Conversely, dominant parties reduced all-male candidate lists 23.5% less than those running in competitive races. We document a sharp increase in token female candidacies after the adoption of gender quotas, reduced by the introduction of campaign funding requirements. Our results point to the importance of factoring electoral competition and party responses when designing gender equality policies.
@@ -68,6 +69,7 @@ How do political parties react to gender electoral policies in Brazil? Using dat
 <div style="margin-bottom: 2rem;">
   <strong style="color:#211e29; font-size: 1.05rem;">Women's Mobilization and Gender Norms in Politics</strong>
 
+<!-- Commented out buttons and content sections
   <div style="margin-top: 0.8rem;">
     <button onclick="toggleSection('abstract3', 'presentations3', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
     <button onclick="toggleSection('presentations3', 'abstract3', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Presentations</button>
@@ -84,6 +86,7 @@ How do political parties react to gender electoral policies in Brazil? Using dat
       ENS de Lyon PhD workshop
     </p>
   </div>
+  -->
 </div>
 
 <script>
