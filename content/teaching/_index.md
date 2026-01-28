@@ -8,7 +8,7 @@ title: "Teaching"
 
 <small> Tutor for the <strong style="color:#211e29;"> Research Replication Project </strong> (Projet Tutoré) for undergraduate students </small>
 
-<small> <strong style="color:#211e29;"> Data Task </strong> for M2 students (with Austin Boone) </small> 
+<small> <strong style="color:#211e29;"> Data Task </strong> for M2 students (with Augustin Boone) </small> 
 
 ### INSEAD
 
