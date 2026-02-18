@@ -2,7 +2,7 @@
 a.button {
     display: inline-block;
     padding: 4px 10px;
-    border-radius: 20px;          /* ← round shape */
+    border-radius: 10px;          /* ← round shape */
     background: #f5f5f5 !important; /* ← light gray background */
     border: none;                  /* ← no border */
     color: #211e29 !important;
