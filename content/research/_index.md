@@ -19,7 +19,7 @@ title: "Research"
   </p>
 
   <div style="margin-top: 0.8rem;">
-  <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
+  <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
   <!-- Commented out presentations button
   <button onclick="toggleSection('presentations1', 'abstract1', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Presentations</button>
   -->
@@ -52,8 +52,8 @@ We investigate how candidates' willingness to apply responds to (potential) disc
   <span style="color:#b7b6b7; font-size: small;">[Draft coming soon!]</span>
 
   <div style="margin-top: 0.8rem;">
-    <button onclick="toggleSection('abstract2', 'presentations2', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
-    <button onclick="toggleSection('presentations2', 'abstract2', this)" style="padding: 0.3rem 0.8rem; font-size: 0.85rem; background: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Presentations</button>
+    <button onclick="toggleSection('abstract2', 'presentations2', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;">Abstract</button>
+    <button onclick="toggleSection('presentations2', 'abstract2', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;">Presentations</button>
   </div>
   
   <div id="abstract2" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
