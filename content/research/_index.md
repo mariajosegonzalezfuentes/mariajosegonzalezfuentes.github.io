@@ -14,7 +14,7 @@ title: "Research"
   </p>
 
   <p>
-    <a href="https://mariajosegonzalezfuentes.github.io/DrJ_january2026.pdf" style="color:#c43e54; font-size: small; text-decoration: none;">[Link (January 2026)]</a> <a href="https://www.library.hbs.edu/working-knowledge/when-resumes-are-blind-more-talented-women-step-forward" style="color:#c43e54; font-size: small; text-decoration: none;">[HBS Note]</a>
+    <a href="https://mariajosegonzalezfuentes.github.io/DrJ_february2026.pdf" style="color:#c43e54; font-size: small; text-decoration: none;">[Link (February 2026)]</a> <a href="https://www.library.hbs.edu/working-knowledge/when-resumes-are-blind-more-talented-women-step-forward" style="color:#c43e54; font-size: small; text-decoration: none;">[HBS Note]</a>
   </p>
 
   <div style="margin-top: 0.8rem;">
