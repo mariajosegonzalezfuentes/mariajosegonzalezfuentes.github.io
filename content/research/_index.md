@@ -19,9 +19,9 @@ title: "Research"
   </p>
 
   <div style="margin-top: 0.8rem;">
-    <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; font-weight: bold; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
+    <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
     <!-- Commented out presentations button
-    <button onclick="toggleSection('presentations1', 'abstract1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; font-weight: bold; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
+    <button onclick="toggleSection('presentations1', 'abstract1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
     -->
   </div>
 
@@ -52,8 +52,8 @@ We investigate how candidates' willingness to apply responds to (potential) disc
   <span style="color:#b7b6b7; font-size: small;">[Draft coming soon!]</span>
 
   <div style="margin-top: 0.8rem;">
-    <button onclick="toggleSection('abstract2', 'presentations2', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; font-weight: bold; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
-    <button onclick="toggleSection('presentations2', 'abstract2', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; font-weight: bold; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
+    <button onclick="toggleSection('abstract2', 'presentations2', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
+    <button onclick="toggleSection('presentations2', 'abstract2', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
   </div>
   
   <div id="abstract2" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
@@ -74,8 +74,8 @@ How do political parties react to gender electoral policies in Brazil? Using dat
 
   <!-- Commented out buttons and content sections
   <div style="margin-top: 0.8rem;">
-    <button onclick="toggleSection('abstract3', 'presentations3', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; font-weight: bold; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
-    <button onclick="toggleSection('presentations3', 'abstract3', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; font-weight: bold; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
+    <button onclick="toggleSection('abstract3', 'presentations3', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
+    <button onclick="toggleSection('presentations3', 'abstract3', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
   </div>
 
   <div id="abstract3" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
@@ -104,7 +104,6 @@ function toggleSection(showId, hideId, button) {
     btn.style.color = '#211e29';
     btn.style.border = 'none';
     btn.style.fontSize = '12px';
-    btn.style.fontWeight = 'bold';
     const arr = btn.querySelector('.arrow');
     if (arr) arr.textContent = '▼';
   });
