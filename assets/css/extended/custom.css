@@ -7,7 +7,7 @@ a.button {
     border: 1px solid var(--tertiary);
     color: var(--primary) !important;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 14px;
     text-decoration: none !important;
     transition: color 0.2s, border 0.2s;
 }
