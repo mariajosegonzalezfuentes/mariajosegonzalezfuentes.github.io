@@ -102,7 +102,8 @@ function toggleSection(showId, hideId, button) {
   buttons.forEach(btn => {
     btn.style.background = '#f5f5f5';
     btn.style.color = '#211e29';
-    btn.style.borderColor = '#ddd';
+    btn.style.border = 'none';         // ← removes border
+    btn.style.fontSize = '12px';       // ← smaller font size
   });
   
   // Hide the other section (only if it exists)
@@ -115,7 +116,7 @@ function toggleSection(showId, hideId, button) {
     showElement.style.display = 'block';
     button.style.background = '#c43e54';
     button.style.color = 'white';
-    button.style.borderColor = '#c43e54';
+    button.style.border = 'none';      // ← removes border on active state too
   } else if (showElement) {
     showElement.style.display = 'none';
   }
