@@ -10,7 +10,7 @@ title: "Research"
   <strong style="color:#211e29; font-size: 1.05rem;">Discrimination, Rejection, and Willingness to Apply: Effects of Blind Hiring Processes</strong>
   
   <p style="font-size: 0.9rem; color: #555; margin-top: 0.3rem; margin-bottom: 0.3rem;">
-    with <a href="http://www.anneboring.com/" style="color: #555; text-decoration: none;">Anne Boring</a>, <a href="https://sites.google.com/site/kbaldigacoffman/" style="color: #555; text-decoration: none;">Katherine B. Coffman</a> and <a href="https://sites.google.com/site/dylanglover/home" style="color: #555; text-decoration: none;">Dylan Glover</a>
+    with <a href="http://www.anneboring.com/" style="color: #555; text-decoration: none;">Anne Boring</a>, <a href="https://sites.google.com/site/kbaldigacoffman/" style="color: #555; text-decoration: none;">Katherine B. Coffman</a> and <a href="https://sites.google.com/site/dylanglover/home" style="color: #555; text-decoration: none;">Dylan Glover</a>, <i> submitted </i>
   </p>
 
   <p>
@@ -58,13 +58,13 @@ We investigate how candidates' willingness to apply responds to (potential) disc
   
   <div id="abstract2" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
     <p style="font-size: small; text-align: justify; margin: 0;">
-How do political parties react to gender electoral policies in Brazil? Using data from seven municipal elections, we show that Brazilian political parties react to gender quotas and funding requirements by strategically placing female candidates for municipal councillors in races where they expect weak performance while reserving "sure" races for men. Despite national-level compliance requirements, weak enforcement at the municipal level enables this strategic distribution across localities based on electoral competitiveness. In municipalities that are historically electoral strongholds, the share of female candidates increased more after quota implementation than in competitive municipalities, driven by a larger increase among non-dominant parties. Conversely, dominant parties reduced all-male candidate lists 23.5% less than those running in competitive races. We document a sharp increase in token female candidacies after the adoption of gender quotas, reduced by the introduction of campaign funding requirements. Our results point to the importance of factoring electoral competition and party responses when designing gender equality policies.
+How do political parties react to gender electoral policies? Using data from seven Brazilian municipal elections, we show that gender quotas and funding requirements change party incentives differently. Despite national-level compliance requirements, weak municipal enforcement enables strategic behaviour based on electoral competitiveness. In historical strongholds, the share of female candidates increased more after quota implementation than in competitive municipalities, driven by challenger parties. Conversely, strongholds reduced all-male lists 23.5% less than those in competitive races. The primary compliance mechanism is the fielding of token female candidates—younger, less educated, and single-time runners—with 40% of lists composed exclusively of men or men and token women. Funding requirements raise the cost of this strategy, leading parties to bunch at the quota threshold. Elected female candidates receive no fewer votes than male counterparts, pointing to party gatekeeping rather than voter bias as the key barrier to representation.
     </p>
   </div>
 
   <div id="presentations2" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
     <p style="font-size: small; margin: 0;">
-      <strong>8th Economics and Politics Workshop, CERGIC Internal Seminar</strong>, Gender Gaps Conference 2024, PSE-GPET Internal Seminar.
+      <strong>3rd ENS de Lyon – University of Bologna PhD Workshop, 8th Economics and Politics Workshop, CERGIC Internal Seminar</strong>, Gender Gaps Conference 2024, PSE-GPET Internal Seminar.
     </p>
   </div>
 </div>
