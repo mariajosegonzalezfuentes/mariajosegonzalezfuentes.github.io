@@ -20,9 +20,7 @@ title: "Research"
 
   <div style="margin-top: 0.8rem;">
     <button onclick="toggleSection('abstract1', 'presentations1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
-    <!-- Commented out presentations button
     <button onclick="toggleSection('presentations1', 'abstract1', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
-    -->
   </div>
 
   <div id="abstract1" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
@@ -31,13 +29,14 @@ We investigate how candidates’ willingness to apply responds to (potential) di
     </p>
   </div>
 
-  <!-- Commented out presentations section
   <div id="presentations1" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
+    <p style="font-size: small; margin: 0 0 0.5rem 0;">
+      <u>Past presentations:</u> CERGIC Internal Seminar, Workshop ED SEG 2026.
+    </p>
     <p style="font-size: small; margin: 0;">
-      CERGIC Internal Seminar.
+      <u>Upcoming presentations:</u> EEA Congress.
     </p>
   </div>
-  -->
 </div>
 
 ## Work in Progress
@@ -63,8 +62,11 @@ How do political parties react to gender electoral policies? Using data from sev
   </div>
 
   <div id="presentations2" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
+    <p style="font-size: small; margin: 0 0 0.5rem 0;">
+      <u>Past presentations:</u> 3rd ENS de Lyon – University of Bologna PhD Workshop, 8th Economics and Politics Workshop, CERGIC Internal Seminar, Gender Gaps Conference 2024, PSE-GPET Internal Seminar.
+    </p>
     <p style="font-size: small; margin: 0;">
-      <strong>3rd ENS de Lyon – University of Bologna PhD Workshop, 8th Economics and Politics Workshop, CERGIC Internal Seminar</strong>, Gender Gaps Conference 2024, PSE-GPET Internal Seminar.
+      <u>Upcoming presentations:</u> Women in Leadership: Accelerating Development Outcomes Conference (LSE), 5th Naples School of Economics PhD and Postdoctoral Workshop.
     </p>
   </div>
 </div>
