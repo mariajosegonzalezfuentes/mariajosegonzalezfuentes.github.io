@@ -33,9 +33,11 @@ We investigate how candidates’ willingness to apply responds to (potential) di
     <p style="font-size: small; margin: 0 0 0.5rem 0;">
       <u>Past presentations:</u> CERGIC Internal Seminar, Workshop ED SEG 2026.
     </p>
+    <!--
     <p style="font-size: small; margin: 0;">
       <u>Upcoming presentations:</u> EEA Congress.
     </p>
+    -->
   </div>
 </div>
 
@@ -66,7 +68,7 @@ How do political parties react to gender electoral policies? Using data from sev
       <u>Past presentations:</u> 3rd ENS de Lyon – University of Bologna PhD Workshop, 8th Economics and Politics Workshop, CERGIC Internal Seminar, Gender Gaps Conference 2024, PSE-GPET Internal Seminar.
     </p>
     <p style="font-size: small; margin: 0;">
-      <u>Upcoming presentations:</u> Women in Leadership: Accelerating Development Outcomes Conference (LSE), 5th Naples School of Economics PhD and Postdoctoral Workshop.
+      <u>Upcoming presentations:</u> Women in Leadership: Accelerating Development Outcomes Conference (LSE), 5th Naples School of Economics PhD and Postdoctoral Workshop, 5th Women in Political Economics Workshop (WU Vienna).
     </p>
   </div>
 </div>
