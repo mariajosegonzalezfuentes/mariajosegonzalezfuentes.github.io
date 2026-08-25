@@ -30,15 +30,14 @@ We investigate how candidates’ willingness to apply responds to (potential) di
   </div>
 
   <div id="presentations1" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
-    <p style="font-size: small; margin: 0 0 0.5rem 0;">
-      <u>Past presentations:</u> CERGIC Internal Seminar, Workshop ED SEG 2026.
-    </p>
-    <!--
-    <p style="font-size: small; margin: 0;">
-      <u>Upcoming presentations:</u> EEA Congress.
-    </p>
-    -->
-  </div>
+  <p style="font-size: small; margin: 0 0 0.5rem 0;">
+    <u>Past presentations:</u> CERGIC Internal Seminar, Workshop ED SEG 2026.
+  </p>
+  <!--
+  <p style="font-size: small; margin: 0;">
+    <u>Upcoming presentations:</u> EEA Congress.
+  </p>
+  -->
 </div>
 
 ## Work in Progress
