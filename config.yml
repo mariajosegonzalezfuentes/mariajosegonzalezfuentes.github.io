@@ -64,7 +64,7 @@ params:
 
     socialIcons:
         - name: cv
-          url: CV_2025.pdf
+          url: Gonzalez-Fuentes_cv.pdf
         - name: Email
           url: mailto:maria.gonzalez_fuentes@ens-lyon.fr
         - name: Bluesky
