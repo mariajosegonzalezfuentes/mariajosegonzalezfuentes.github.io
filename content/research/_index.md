@@ -38,6 +38,7 @@ We investigate how candidates’ willingness to apply responds to (potential) di
     <u>Upcoming presentations:</u> EEA Congress.
   </p>
   -->
+  </div>
 </div>
 
 ## Work in Progress
@@ -71,6 +72,7 @@ How do political parties react to gender electoral policies? Using data from sev
     <u>Upcoming presentations:</u> EEA Congress.
   </p>
   -->
+  </div>
 </div>
 
 <div style="margin-bottom: 2rem;">
