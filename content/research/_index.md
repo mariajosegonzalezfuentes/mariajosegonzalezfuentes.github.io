@@ -78,7 +78,6 @@ How do political parties react to gender electoral policies? Using data from sev
 <div style="margin-bottom: 2rem;">
   <strong style="color:#211e29; font-size: 1.05rem;">Conservative Mobilization, Women and Politics</strong>
 
-  <!-- Commented out buttons and content sections
   <div style="margin-top: 0.8rem;">
     <button onclick="toggleSection('abstract3', 'presentations3', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
     <button onclick="toggleSection('presentations3', 'abstract3', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
@@ -91,11 +90,38 @@ How do political parties react to gender electoral policies? Using data from sev
   </div>
 
   <div id="presentations3" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
+    <u>Past presentations:</u> CERGIC PhD workshop 2025, 2026.
+    </p>
+<!--
+  <p style="font-size: small; margin: 0;">
+    <u>Upcoming presentations:</u> 10th International Conference on The Political Economy of Democracy and Dictatorship.
+  </p>
+  </div>
+</div>
+
+<div style="margin-bottom: 2rem;">
+  <strong style="color:#211e29; font-size: 1.05rem;">Freed from the <i>Metate</i>: Technological Change and the Convergence of Gender and Ethnic Gaps</strong>
+
+  <p style="font-size: 0.9rem; color: #555; margin-top: 0.3rem; margin-bottom: 0.3rem;">
+    with <a href="https://sites.google.com/view/anna-barbeta-margarit" style="color: #555; text-decoration: none;">Anna Barbeta-Margarit</a>, <a href="https://ceh.colmex.mx/personal-academico/gomez-galvarriato-aurora/semblanza" style="color: #555; text-decoration: none;">Aurora Gómez Galvarriato</a> and <a href="https://woomora.github.io/" style="color: #555; text-decoration: none;">L. Guillermo Woo-Mora</a>
+  </p>
+
+  <div style="margin-top: 0.8rem;">
+    <button onclick="toggleSection('abstract4', 'presentations4', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.5rem;"><span class="arrow">▼</span> Abstract</button>
+    <button onclick="toggleSection('presentations4', 'abstract4', this)" style="padding: 0.3rem 0.8rem; font-size: 12px; background: #f5f5f5; border: none; border-radius: 4px; cursor: pointer;"><span class="arrow">▼</span> Presentations</button>
+  </div>
+
+  <div id="abstract4" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
     <p style="font-size: small; margin: 0;">
-      ENS de Lyon PhD workshop
+      Abstract coming soon.
     </p>
   </div>
-  -->
+
+  <div id="presentations4" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
+    <p style="font-size: small; margin: 0;">
+      <u>Past presentations:</u> CERGIC Internal Seminar.
+    </p>
+  </div>
 </div>
 
 <script>
