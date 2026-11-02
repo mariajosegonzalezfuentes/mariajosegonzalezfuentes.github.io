@@ -76,7 +76,7 @@ How do political parties react to gender electoral policies? Using data from sev
 </div>
 
 <div style="margin-bottom: 2rem;">
-  <strong style="color:#211e29; font-size: 1.05rem;">Women's Mobilization and Gender Norms in Politics</strong>
+  <strong style="color:#211e29; font-size: 1.05rem;">Conservative Mobilization, Women and Politics</strong>
 
   <!-- Commented out buttons and content sections
   <div style="margin-top: 0.8rem;">
