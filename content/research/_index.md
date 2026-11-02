@@ -90,12 +90,12 @@ How do political parties react to gender electoral policies? Using data from sev
   </div>
 
   <div id="presentations3" style="display: none; margin-top: 1rem; padding: 1rem; background: #f9f9f9; border-left: 3px solid #c43e54;">
-    <u>Past presentations:</u> CERGIC PhD workshop 2025, 2026.
+    <p style="font-size: small; margin: 0 0 0.5rem 0;">
+      <u>Past presentations:</u> CERGIC PhD workshop 2025, 2026.
     </p>
-<!--
-  <p style="font-size: small; margin: 0;">
-    <u>Upcoming presentations:</u> 10th International Conference on The Political Economy of Democracy and Dictatorship.
-  </p>
+    <p style="font-size: small; margin: 0;">
+      <u>Upcoming presentations:</u> 10th International Conference on The Political Economy of Democracy and Dictatorship.
+    </p>
   </div>
 </div>
 
